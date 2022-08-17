@@ -55,6 +55,8 @@ Image:
 
 
 Code block:
+To create code blocks, indent every line of the block by at least four spaces or one tab.
+
  ```
      {
    "firstName": "John",
@@ -69,9 +71,8 @@ Code block:
        }
        add(3, 4);
        ```
- 
-     (highlighted)
-     ```json
+	Java: 
+     ```java
      {
        "firstName": "John",
          "lastName": "Smith",
