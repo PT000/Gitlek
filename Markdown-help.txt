@@ -62,8 +62,14 @@ Code block:
        "age": 25
        }
      ```
-
-
+    Javascript:
+    ```JavaScript
+    function add(a, b){
+       return a + b;
+       }
+       add(3, 4);
+       ```
+ 
      (highlighted)
      ```json
      {
