@@ -1,3 +1,5 @@
+Markdown syntax:
+
 
 TaskList: 
  - [x] Write the press release
@@ -19,4 +21,10 @@ Italic:
  *italicized text*
 
 
+Emoji:
+  Some Markdown applications allow you to insert emoji by typing emoji shortcodes. These begin and end with a colon and   include the name of an emoji. 
+  T.ex. 
+  Gone camping! :tent: Be back soon.
+
+  That is so funny! :joy:
 
