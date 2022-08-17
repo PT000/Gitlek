@@ -48,4 +48,9 @@ Link:
   | Paragraph | Text |
 
 
+Image:
+ 	![alt text](image.jpg)
+	T.ex. 
+	![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+
 
