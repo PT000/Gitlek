@@ -54,3 +54,24 @@ Image:
 	![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
 
 
+Code block:
+ ```
+     {
+   "firstName": "John",
+     "lastName": "Smith",
+       "age": 25
+       }
+     ```
+
+
+     (highlighted)
+     ```json
+     {
+       "firstName": "John",
+         "lastName": "Smith",
+	   "age": 25
+	   }
+	   ```
+
+
+
