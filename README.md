@@ -18,7 +18,9 @@ erDiagram
         int quantity
         float pricePerUnit
     }
-    
+    ```
+    ```mermaid
+
     sequenceDiagram
     participant dotcom
     participant iframe
