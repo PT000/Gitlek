@@ -18,5 +18,5 @@ erDiagram
         int quantity
         float pricePerUnit
     }
-
-```
+    ```
+  
