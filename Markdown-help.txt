@@ -81,4 +81,10 @@ To create code blocks, indent every line of the block by at least four spaces or
 	   ```
 
 
+ Horizontal Rules:
+   To create a horizontal rule, use three or more asterisks (***), dashes (---), or underscores (___) on a line by thems   elves.
+
+
+
+
 
