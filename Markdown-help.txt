@@ -31,5 +31,21 @@ Emoji:
 
 
 Link:
- [title](https://www.example.com)
+ [title](https://www.example.com )
+
+
+ Tables:
+
+  | Syntax      | Description |
+  | ----------- | ----------- |
+  | Header      | Title       |
+  | Paragraph   | Text        |
+
+
+  | Syntax | Description |
+  | --- | ----------- |
+  | Header | Title |
+  | Paragraph | Text |
+
+
 
